@@ -1,5 +1,6 @@
 package controle;
 
+import entidade.Emprestimo;
 import entidade.Amigo;
 import entidade.DVD;
 

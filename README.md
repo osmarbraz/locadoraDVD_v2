@@ -11,7 +11,8 @@ Esse sistema deve permitir o cadastro dos amigos, incluindo: nome, número do te
 
 ![Diagrama de classe](diagramadeclasse.png)
 
-
 ## Pacotes
 
 As classes estão organizadas em 3 pacotes, visão, controle e entidade.
+
+![Diagrama de classe](diagramadepacote.png)
